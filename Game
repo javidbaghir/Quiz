@@ -46,7 +46,7 @@
             kartlar[i1][j1].setTexmin(true);
             oyunLovhesi();
 
-            System.out.print("İkinci Tahmin (i ve j deyerlerini bir boşluqda girin...): ");
+            System.out.print("İkinci Texmin (i ve j deyerlerini bir boşluqda girin...): ");
             int i2 = scanner.nextInt();
             int j2 = scanner.nextInt();
 
